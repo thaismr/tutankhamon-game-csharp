@@ -1,0 +1,15 @@
+{}
+
+[]		||
+
+
+0.6
+------
+
+ - Acrescentado painel de carregamento "LoadingMenuPanel"
+
+ - Acrescentado conexão a servidor Apache/PHP e base de dados mySQL
+
+  - Acrescentados modelos 3d
+
+
